@@ -256,12 +256,7 @@
     </div>
     </div>
 
-    <ul class="ul" id="ul">
-        <li class="lis">
-            <a href="#">abe</a>
-        </li>
 
-    </ul>
 
     <center>
         <footer class="footer">
