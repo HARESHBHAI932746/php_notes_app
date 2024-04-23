@@ -1,0 +1,81 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+.input{
+    color: white;
+    background-color: rgba(0, 0, 55, 0.372);
+}
+input{
+   
+    color: white;
+    background-color: rgba(0, 0, 55, 0.372);
+}
+.container {
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #00000059;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.969);
+}
+
+h2 {
+    margin-top: 0;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.buttons {
+    padding: 10px 20px;
+    background-color: #0037ffb0;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttons:hover {
+    background-color: #0056b3;
+}
+
+.notes-container {
+    margin-top: 20px;
+}
+
+.note {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.note h3 {
+    margin-top: 0;
+}
+
+.note-actions {
+    margin-top: 10px;
+}
+
+.note-actions form {
+    display: inline;
+    margin-right: 10px;
+}
